@@ -1,0 +1,1 @@
+This is the readme for a sample Ruby on Rails application written with direction from the tutorial located [here] (http://railstutorial.org). 
